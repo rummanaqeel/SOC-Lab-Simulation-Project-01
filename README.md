@@ -42,6 +42,8 @@ This project simulates a beginner-level SOC (Security Operations Center) analyst
 > Screenshot folder: `outputs/screenshots/`
 > Log files: `outputs/logs/`
 > Report PDF: `incident_report.pdf`
+![Failed SSH Attempts](outputs/screenshots/failed_ssh_attempts.png)  
+_Figure 1: Screenshot showing multiple failed SSH login attempts as captured in logs._
 
 ## 🚀 Next Steps
 - Automate with bash or Python in future versions.
